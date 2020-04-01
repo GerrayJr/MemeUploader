@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "914370296987",
+    "firebase_url": "https://memeproject-ad630.firebaseio.com",
+    "project_id": "memeproject-ad630",
+    "storage_bucket": "memeproject-ad630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914370296987:android:633dd19ef3eca9537a9a3e",
+        "android_client_info": {
+          "package_name": "com.gerray.memeprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914370296987-h6u00o6glna3ovtb1cg7i76o9uj37fb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerray.memeprototype",
+            "certificate_hash": "91e07ad69fe23200097a0c6dffcf62e74b03a18a"
+          }
+        },
+        {
+          "client_id": "914370296987-bmucafh4p4c2fuo2clofi9tq2nblfmug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkOt44faP6NAR3GXV385GIV2XeqQwq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914370296987-bmucafh4p4c2fuo2clofi9tq2nblfmug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914370296987:android:715bbcaa4881a4997a9a3e",
+        "android_client_info": {
+          "package_name": "com.gerray.memeuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914370296987-r21s581nhcrkgmmkcdrsj01ml6vceo0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerray.memeuploader",
+            "certificate_hash": "91e07ad69fe23200097a0c6dffcf62e74b03a18a"
+          }
+        },
+        {
+          "client_id": "914370296987-bmucafh4p4c2fuo2clofi9tq2nblfmug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkOt44faP6NAR3GXV385GIV2XeqQwq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914370296987-bmucafh4p4c2fuo2clofi9tq2nblfmug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
